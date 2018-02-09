@@ -1,0 +1,84 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #E5F3F4;
+}
+nav {
+  background-color: #3498DB;
+  overflow: hidden;
+  color: white;
+}
+nav h1 {
+  font-family: 'Alegreya';
+  padding-left: 50px;
+  margin-bottom: 0px;
+  font-size: 35px;
+}
+nav h3 {
+  font-family: 'Source Sans Pro';
+  padding-left: 50px;
+  font-size: 20px;
+  margin-top: 0px;
+}
+.quote {
+  text-align: justify;
+  border: 5px solid #49a587;
+  padding: 15px;
+  margin: 10px auto;
+  width: 45%;
+  background-color: #2ECC71;
+  overflow: hidden;
+  font-size: medium;
+  font-family: 'Source Sans Pro';
+}
+.quoted-from {
+  text-align: right;
+  font-style: italic;
+  padding-right: 10px;
+}
+.try-it-now {
+  background-color: #E74C3C;
+  border-radius: 20px;
+  border: 5px solid #C03829;
+  padding: 5px 5px 20px 5px;
+  color: white;
+  margin: 20px auto;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: 23px;
+  height: 85px;
+}
+div.try-it-now h4 {
+  margin: 20px 0px 0px 0px;
+}
+div.try-it-now h3 {
+  margin: 10px 0px 0px 0px;
+}
+div.try-it-now h3 a {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+div.blue-page-section {
+  background-color: #2C3E50;
+  color: white;
+  padding: 50px;
+  font-family: 'Source Sans Pro';
+  font-size: 1.1rem;
+}
+footer {
+  background-color: #1C2224;
+  height: 65px;
+  text-align: center;
+  padding-top: 30px;
+  color: #2B6C97;
+
+}
+footer a {
+  color: #509bce;
+  text-decoration: none;
+  vertical-align: middle;
+  padding: 0px 20px;
+}
